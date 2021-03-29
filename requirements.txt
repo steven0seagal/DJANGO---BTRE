@@ -140,7 +140,7 @@ pycurl==7.43.0.2
 pydot2==1.0.33
 pydot3==1.0.9
 pyflakes==2.0.0
-Pygments==2.3.1
+Pygments==2.7.4
 PyHamcrest==1.9.0
 PyInstaller==3.4
 pylint==2.2.2
